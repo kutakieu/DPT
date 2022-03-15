@@ -1,0 +1,3 @@
+[submodule "libs/nyuv2_toolbox"]
+	path = libs/nyuv2_toolbox
+	url = https://github.com/GabrielMajeri/nyuv2-python-toolbox.git
