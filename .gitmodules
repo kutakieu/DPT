@@ -1,3 +1,9 @@
 [submodule "libs/nyuv2_toolbox"]
 	path = libs/nyuv2_toolbox
 	url = https://github.com/GabrielMajeri/nyuv2-python-toolbox.git
+[submodule "data/fe7653742b/libs/stray_visualizer"]
+	path = data/fe7653742b/libs/stray_visualizer
+	url = https://github.com/kekeblom/StrayVisualizer.git
+[submodule "libs/stray_visualizer"]
+	path = libs/stray_visualizer
+	url = https://github.com/kekeblom/StrayVisualizer.git
